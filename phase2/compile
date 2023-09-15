@@ -1,0 +1,4 @@
+lex AST.l
+yacc -d AST.y
+gcc -g y.tab.c lex.yy.c graph.c -ll -o AST
+./AST < input.c

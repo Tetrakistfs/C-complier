@@ -1,0 +1,4 @@
+lex parser.l
+yacc parser.y
+cc y.tab.c -ll
+./a.out input.c
