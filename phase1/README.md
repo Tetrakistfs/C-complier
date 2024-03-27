@@ -4,8 +4,8 @@ Compiler Design Lab - Project 1
 # Lexical Analyser for a subset of the C langauge
 
 ### Team Members
- 1. Karthik M - 15CO221
- 2. Kaushik S Kalmady - 15CO222
+ 1. Aryan Kashyap - 201210009
+ 2. Aryan Srivastava - 201210010
 
 ### Lab Batch - Wednesday
 
